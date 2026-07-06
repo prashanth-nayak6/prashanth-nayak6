@@ -38,57 +38,11 @@ To become a Software Engineer building products that positively impact millions 
 
 ---
 
-# 🛠 Tech Stack
+## 💻 Tech Stack
 
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css"/>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,bootstrap,git,github,vscode,mysql,aws&theme=dark" />
 </p>
-
-## Frameworks & Libraries
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind"/>
-
-</p>
-
-## AI & Data Science
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-
-</p>
-
-## Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
-</p>
-
-## Cloud & Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode"/>
-
-</p>
-
----
 
 # 📌 Featured Projects
 
@@ -96,27 +50,11 @@ To become a Software Engineer building products that positively impact millions 
 
 AI-powered learning platform designed to simplify education through intelligent learning assistance.
 
-### Tech Stack
-
-React • Node.js • JavaScript • AI
 
 ---
 
-## 🌐 Portfolio Website
-
-Responsive personal portfolio showcasing projects, achievements, and technical skills.
-
----
-
-## 📊 Data Analysis Projects
-
-Data visualization and analytics projects using Python, Pandas, and NumPy.
-
----
 
 # 🏆 Achievements
-
-🏅 Top **18K Rank** on SPOJ
 
 🎖 Unlox Web Development Certification
 
